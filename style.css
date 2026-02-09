@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url('pexels-jplenio-1103970.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+.container {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    width: 350px;
+    color: white;
+}
+input {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border: 1px solid white;
+    border-radius: 5px;
+    background: transparent;
+    color: white;
+}
+input::placeholder {
+    color: rgba(255, 255, 255, 0.7);
+}
+button {
+    background-color: #FFC107;
+    color: black;
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    font-size: 16px;
+    transition: 0.3s;
+}
+button:hover {
+    background-color: #FFA000;
+}
+a {
+    text-decoration: none;
+    color: #FFC107;
+    font-size: 14px;
+}
+a:hover {
+    text-decoration: underline;
+}

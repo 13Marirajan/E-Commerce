@@ -1,0 +1,96 @@
+INSERT INTO models (title, format, download_link) VALUES
+('Plane OBJ Model', '.zip', 'https://drive.google.com/file/d/1siWcQIKvgiWLBBlthgshvpPkPWiYvCSp/view?usp=drive_link'),
+('Drone 001 Stage 2', '.obj', 'https://drive.google.com/file/d/1Nu4qIzAW1Pj5luMOYUvXX0fLRgXkghpi/view?usp=drive_link'),
+('Wooden Airplane Toy Helicopter', '.obj', 'https://drive.google.com/file/d/10NVOQx4laVx8GKhqv6LUa1Er9M7kXyyZ/view?usp=drive_link'),
+('Spitfire v6', '.obj', 'https://drive.google.com/file/d/17kYU7rZORHlQul29HydmJo_BBaCrABJJ/view?usp=drive_link'),
+('Plane OBJ', '.obj', 'https://drive.google.com/file/d/1tlNdzGacxsJBGx9nwhp3deNVMIrp3Pbp/view?usp=drive_link'),
+('F104 Starfighter', '.obj', 'https://drive.google.com/file/d/1GvKtEr2IU4A8xAryX95ro3P94fdb9jq7/view?usp=drive_link'),
+('AS-78 Condor', '.obj', 'https://drive.google.com/file/d/1kxk9XcWzUA5K2nYh0lHxswtOZ0zZsqBb/view?usp=drive_link'),
+('Helicopter', '.obj', 'https://drive.google.com/file/d/1tsWiVeB08ZzefgibJAVcT9PMwdDox3mr/view?usp=drive_link'),
+('NATO Shelter V1', '.obj', 'https://drive.google.com/file/d/1pjLAE2uU85QH7-2_jsvOVA7A25lAlBQY/view?usp=drive_link'),
+('Generic Military OBJ', '.zip', 'https://drive.google.com/file/d/11wQhCVqGM4p7Tl0jOF1idQ6dAA_B3syo/view?usp=drive_link');
+INSERT INTO models (title, format, download_link) VALUES
+('D Rex', '.obj', 'https://drive.google.com/file/d/1N615I0IceRqACcxQXJ0Bwvxi2Vcbv22u/view?usp=drive_link'),
+('Shark OBJ', '.zip', 'https://drive.google.com/file/d/1BHzen1I4co1OcF-vU1_0_gToRH_ICXX0/view?usp=drive_link'),
+('Unknown Animal Model 1', '.zip', 'https://drive.google.com/file/d/1OKXG1FzFiFW6iUS2DlloewWGTClst_fp/view?usp=drive_link'),
+('Squirrel HP', '.obj', 'https://drive.google.com/file/d/1vHYy37lrksBT66ieqNQi_AfJ9nMrz9QC/view?usp=drive_link'),
+('SM Ram 02', '.obj', 'https://drive.google.com/file/d/15AHWkAh3nFGOtU9MBLrnngFMFBJ7jo_6/view?usp=drive_link');
+INSERT INTO models (title, format, download_link) VALUES
+('Food Set', '.obj', 'https://drive.google.com/file/d/1tr1VZeYAEJb6Hfkn05OkMAoWruniYPXV/view?usp=drive_link'),
+('Burger Merged', '.obj', ' https://drive.google.com/file/d/17OnR-Kw167ap3LQGJ5j6yPE8STYW4SGw/view?usp=drive_link'),
+('Double Hot Chocolate', '.obj', 'https://drive.google.com/file/d/1yTwQEvKoXbHNEMJYrdnK1Ks3pPUjsFdo/view?usp=drive_link'),
+('Bird Eggs', '.obj', 'https://drive.google.com/file/d/1WHFyJdveLyoutbTWVTMX-0wbT_9sCRRf/view?usp=drive_link'),
+('Drinks', '.obj', 'https://drive.google.com/file/d/126Vmi83ixsQKW6j3LMBX74f58LKeC5eH/view?usp=drive_link'),
+('Decorative Pumpkins', '.obj', 'https://drive.google.com/file/d/1Mgnp3d_BoZOJdYcwnlrScsjWxGzU_Kyf/view?usp=drive_link'),
+('Chocolate Gift', '.zip', 'https://drive.google.com/file/d/1rwbFgtl_EE2GfEJBd1n_2YZmKB4EZYzr/view?usp=drive_link'),
+('Chocolate Cake', '.obj', 'https://drive.google.com/file/d/1dyMIB7lrlWPy4xG-tzjS71_TsVKxgfG0/view?usp=drive_link');
+INSERT INTO models (title, format, download_link) VALUES
+('Old Boat Mesh', '.obj', 'https://drive.google.com/file/d/1WvdkDj10Wv7n5ZnrZbWjnonxI0dvtisc/view?usp=drive_link'),
+('Boat OBJ (Compressed)', '.rar', 'https://drive.google.com/file/d/1VsIbz-VefSXL2B32tVIsc7QcyulEd1g3/view?usp=drive_link'),
+('Cat Model with Boat', '.obj', 'https://drive.google.com/file/d/1nam_fANyTIcj4FM8R2Ph3G0gd6ddLxXU/view?usp=drive_link'),
+('Boat OBJ', '.obj', ' https://drive.google.com/file/d/1j1IPRR2PsPV90C4kFz5VfXm66nQPPRM1/view?usp=drive_link'),
+('Boat', '.obj', ' https://drive.google.com/file/d/1iAKSqg6wTxKhl-R6D9DodIuW0jnXq234/view?usp=drive_link');
+INSERT INTO models (title, format, download_link) VALUES
+('Female Office Worker', '.rar', 'https://drive.google.com/file/d/1phip8QOO5XGRZJLQa5s669l9HYIpUmE4/view?usp=drive_link'),
+('Sonic', '.obj', 'https://drive.google.com/file/d/1biD0VCVOQNAuho0MfVTBdne5n-lVn6Wp/view?usp=drive_link'),
+('Plant in Pot', '.obj', 'https://drive.google.com/file/d/16H5d0eAF_XcpFM5GEio5DqLNd9rB000P/view?usp=drive_link'),
+('Male Ninja', '.fbx', 'https://drive.google.com/file/d/1GzQ676jg96QWcyKgxhSHd-cTZFf9DoI2/view?usp=drive_link'),
+('Goku', '.obj', ' https://drive.google.com/file/d/1MhqOgFf_Kl5Zjs-UQQ3cqLuuY9OZsIP6/view?usp=drive_link'),
+('Robot', '.rar', 'https://drive.google.com/file/d/1xr560f_pxnyB-f6caA3o5gXfmTeArZQf/view?usp=drive_link'),
+('Venom', '.fbx', 'https://drive.google.com/file/d/1ApIM4xxAXSPzVvjxLJT8kirgLRzPEEyx/view?usp=drive_link'),
+('Iron Man', '.fbx', 'https://drive.google.com/file/d/1e2OkFDcRn7gEC72GJiesrEp5hykHT2BD/view?usp=drive_link'),
+('OBJ Bundle', '.rar', 'https://drive.google.com/file/d/1ilZ__nADIFnQrvl1j8BzAqqtxRMcbw-H/view?usp=drive_link'),
+('Dragon Girl', '.obj', 'https://drive.google.com/file/d/1VskHmrl8EOqtlVZgWURq8L5FuU0Tg-G2/view?usp=drive_link'),
+('Baxter Leon 03', '.obj', 'https://drive.google.com/file/d/1ry3bUESkOC7agcb_p0gW2t46FgQAWXWg/view?usp=drive_link'),
+('Margo Sofa', '.obj', 'https://drive.google.com/file/d/1RaqnaTMzUTLbYRVIm6CL020LeS_4c-iJ/view?usp=drive_link'),
+('SF90', '.obj', 'https://drive.google.com/file/d/1s600LkZoZTK-BNwfp1AlCSAmLvbn5fZB/view?usp=drive_link'),
+('OBJ Zip Pack', '.zip', 'https://drive.google.com/file/d/1KRX40uVfeDuD28edrLb3F-SQxAP8sRMi/view?usp=drive_link');
+INSERT INTO models (title, format, download_link) VALUES
+('Piano Low Poly', '.obj', 'https://drive.google.com/file/d/1uBLv7PED7jv6pGW4Tf8RXihIH6HXXUjE/view?usp=drive_link'),
+('Toyota MR2 SW20 (1993)', '.zip', 'https://drive.google.com/file/d/1eJqfCCUTQPONBYbPAOBiNTjOU9CvFPO7/view?usp=drive_link'),
+('Coffee Table', '.obj', 'https://drive.google.com/file/d/1zZjZG6T9htonK15BcyB-fArSceTzKoVh/view?usp=drive_link'),
+('FBX Pack', '.rar', 'https://drive.google.com/file/d/1BKzscK1QZrZOwKXr1b2TabyDI1bAs3iR/view?usp=drive_link'),
+('Plant Holder', '.obj', ' https://drive.google.com/file/d/1jSOEWiJ-tE58L3wBlDZ_fIq8RmuWlgRa/view?usp=drive_link'),
+('OBJ Collection', '.zip', 'https://drive.google.com/file/d/1Ue0MJ_2URfChSBvKDeL7x9bGuhy_PoEc/view?usp=drive_link'),
+('Baseball Bat (High Poly)', '.obj', 'https://drive.google.com/file/d/1XfOQc-023pYE3faC6gBlKdyAjjjpdeAj/view?usp=drive_link'),
+('OBJ Zip Set 2', '.zip', 'https://drive.google.com/file/d/1_3l6teua_PoXGkkao1d_j7sOhBuur01U/view?usp=drive_link'),
+('Bench', '.obj', 'https://drive.google.com/file/d/1zqCmrQTTu86hRVkLc08MoHrvfPmTd6NI/view?usp=drive_link'),
+('Uzi', '.obj', 'https://drive.google.com/file/d/1XulqkUT7H-pwC9qw2V3kNVIBMm1a3cus/view?usp=drive_link'),
+('Ornament Sofa Mesh 2', '.obj', 'https://drive.google.com/file/d/15u-MY7RMotfPCqpGARZPOIMzYHe4_Am1/view?usp=drive_link'),
+('Chair Puff', '.obj', 'https://drive.google.com/file/d/12zRFoHhF5hPk07drapmVwjXo1RC00y6Q/view?usp=drive_link'),
+('TT6 Model', '.obj', 'https://drive.google.com/file/d/1N565KoJFpQFcEEDdTDpf905yX7VnoyUz/view?usp=drive_link'),
+('XLRB Model', '.obj', 'https://drive.google.com/file/d/1aw-arLtHt-ZHZrckUig59f25m9M9OnI_/view?usp=drive_link');
+INSERT INTO models (title, format, download_link) VALUES
+('AWM Sniper Rifle', '.obj', 'https://drive.google.com/file/d/1n-kBtaF1vn5RLZHIqbYMLzhhcV7THO2S/view?usp=drive_link'),
+('AK47', '.obj', 'https://drive.google.com/file/d/1ES0dIPZk_w5DfTxkVeAtex8-ZCTtie5A/view?usp=drive_link'),
+('Axe Lupus', '.obj', 'https://drive.google.com/file/d/1Oi4g5TrGvrP_dHWGTCSnT8Ebqjd_mlIt/view?usp=drive_link'),
+('Audi R8', '.obj', ' https://drive.google.com/file/d/1rCQz4fJhFh7LSE5M7s5r5fKTCK4hf0ym/view?usp=drive_link'),
+('Strelitzia Flower OBJ', '.zip', 'https://drive.google.com/file/d/1BptiPBkrow2jzk8Zc_3XJ_p4NQygw_o3/view?usp=drive_link'),
+('Shotgun', '.obj', 'https://drive.google.com/file/d/1ipC_B_oGcHsJ0802XpNKEPMMiR09HklX/view?usp=drive_link'),
+('BS09 Nerium Oleander', '.zip', 'https://drive.google.com/file/d/1egp-gToCNRvgflZI4cn8FO0dkJg0OuBs/view?usp=drive_link'),
+('Gustav Wood Stool', '.obj', ' https://drive.google.com/file/d/1_e0YC-wgm72IxXgTvBZEapv7-E36rfKM/view?usp=drive_link'),
+('Naruto Model', '.obj', 'https://drive.google.com/file/d/1XvHQcmV4LPZ63ZNdC-ULSbLfBWpJ7pXg/view?usp=drive_link'),
+('Animated Character OBJ', '.rar', ' https://drive.google.com/file/d/1xxh1DOV8K3JTAL8cI2k0IdsZnwV_vMGV/view?usp=drive_link'),
+('MP5 Gun', '.obj', ' https://drive.google.com/file/d/1X1ndOmcQMctRY_llPXg00gQPjDITdPcd/view?usp=drive_link'),
+('Armchair', '.obj', ' https://drive.google.com/file/d/1Mr29ne2lMordPOnmIE58uygDs3mIaUyr/view?usp=drive_link'),
+('Archer', '.zip', ' https://drive.google.com/file/d/1FOXC9YyQUIK9D4Z8XWNhgn4IeN_otjrc/view?usp=drive_link'),
+('Dagger', '.zip', ' https://drive.google.com/file/d/17xITGepYlT--s1wNhGHt1b59LqkVIwxe/view?usp=drive_link');
+INSERT INTO models (title, format, download_link) VALUES
+('Unknown Model 186', '.rar', 'https://drive.google.com/file/d/1sfrd7_6BNagdK_VCzcgaOPsTkrTq6fr-/view?usp=drive_link');
+
+CREATE TABLE models (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    title VARCHAR(255),
+    format VARCHAR(50),
+    download_link TEXT
+);
+
+CREATE TABLE users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    first_name VARCHAR(50) NOT NULL,
+    last_name VARCHAR(50) NOT NULL,
+    email VARCHAR(100) NOT NULL UNIQUE,
+    password VARCHAR(255) NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
